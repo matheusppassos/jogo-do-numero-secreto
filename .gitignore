@@ -1,0 +1,23 @@
+# Live Server generated artifacts
+/img/JS Game_files/
+/img/JS Game.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / tooling
+node_modules/
+package-lock.json
+yarn.lock
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
